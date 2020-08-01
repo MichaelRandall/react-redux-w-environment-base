@@ -1,4 +1,4 @@
-# Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
+# My starter kit for building applications in react and redux - based on Corey House tutorial
 
 ## Get Started
 
